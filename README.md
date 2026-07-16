@@ -23,7 +23,7 @@ Abre `index.html` en cualquier navegador — funciona offline, sin instalar nada
 
 Para usarlo como fondo de pantalla animado en Windows:
 
-- **Lively Wallpaper**: importa directamente el `.zip` (recomendado, ya trae metadatos y preview), o carga `index.html` como "aplicación web".
+- **Lively Wallpaper (recomendado)**: importa directamente el `.zip` (recomendado, ya trae metadatos y preview), o carga `index.html` como "aplicación web".
 - **[Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)**: cárgalo como "aplicación web" apuntando a `index.html`.
 
 ## Cómo funciona
